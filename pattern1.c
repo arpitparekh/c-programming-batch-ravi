@@ -72,6 +72,9 @@ int main(){
     //     printf("\n");
     // }
 
+
+    
+
 // pattern 7
 
     for(int i=1;i<=5;i++){//1 //2
