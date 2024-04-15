@@ -121,6 +121,5 @@ int main(){
     int q = 30;
 
     printf("\nXOR Example : %d\n",q^0);
-
     
 }
