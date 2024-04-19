@@ -13,7 +13,7 @@ int main(){
     // 3456  // 3456 % 10  = 6
 
 
-    // 1234 % 10 = 4
+    // 1234 % 10 = 4             // logic
     // 1234 / 10 = 123
 
     // 123 % 10  = 3
@@ -30,7 +30,6 @@ int main(){
         int last_digit = n%10;  // 7  // 6
         sum = sum + (last_digit*last_digit*last_digit);
         n =n/10;   // 56  // 5  // 0
-
     }
     // n = 0
     if(sum==original){
