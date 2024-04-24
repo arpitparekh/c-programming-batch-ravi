@@ -16,7 +16,5 @@ int main(){
     printf("\n number of digit is : > %d\n",value);
 
 
-    // 
-
 
 }

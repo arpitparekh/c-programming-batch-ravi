@@ -1,1 +1,1 @@
-number
+arr[0]

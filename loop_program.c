@@ -4,9 +4,9 @@
 
 int main(){
 
-    printf("Enter Range\n");
-    int n;
-    scanf("%d",&n);
+    // printf("Enter Range\n");
+    // int n;
+    // scanf("%d",&n);
 
     // for(int i = 1;i<=n;i++){
 
@@ -18,10 +18,12 @@ int main(){
 
     // }
 
-    for(int i=1;i<=500;i++){
-        if(i%12==0){
-            printf("%d ",i);
-        }
-    }
+    // for(int i=1;i<=500;i++){
+    //     if(i%12==0){
+    //         printf("%d ",i);
+    //     }
+    // }
+
+    printf("%d",123>>2);
 
 }
