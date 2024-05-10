@@ -2,16 +2,16 @@
 
 int main(){
 
-    printf("Enter Alphabet\n");
+    printf("Enter Alphabet\n");a
 
     char ch;
 
     scanf("%c",&ch);
 
-    if(ch<'z' && ch>'a'){
+    if(ch<='z' && ch>='a'){
         printf("character is alphabet\n");    
     }else{
         printf("character is number\n");
     }
-
+    
 }
