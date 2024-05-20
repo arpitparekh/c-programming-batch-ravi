@@ -20,6 +20,4 @@ int main(){
     printf("\nArea of triangle is %f",area);
     printf("\nperimeter of triangle is %d\n",paremeter);
 
-    /
-
 }

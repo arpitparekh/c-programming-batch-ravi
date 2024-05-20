@@ -20,7 +20,7 @@ int main(){
 
     sum(12,13);
     sum(11,15);
-    sum(10,20);
+    sum(10,20);  // function calling
 
 
     int c = myFunction();
@@ -58,7 +58,6 @@ int myFunction(){  // no parameter  // but with return
 int multi(int a,int b){
     return a*b;
 }
-
 
 void sub(int a, int b){
     printf("%d",a-b);
